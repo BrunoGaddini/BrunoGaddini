@@ -10,7 +10,11 @@
     <a href="mailto:bruno_gaddini@hotmail.com">
     <img alt="Outlook Badge" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
     <a href="https://www.instagram.com/bruno_gaddini/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+    <a href="https://exercism.org/profiles/BrunoGaddini">
+    <img alt="Outlook Badge" src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white">
+    <a href="https://web.digitalinnovation.one/users/bruno_gaddini">
+    <img alt="DIO" src="https://christyschott.github.io/portfolio.github.io/assets/img/about/7.png" width="50" height="28">
   </a>
     </p>
 <h4>
@@ -21,13 +25,11 @@
     <h4>
       Tenho 33 anos e sou entusiasta em tecnologia, meu próximo passo é unir todo o conhecimento adquirido com minhas novas skills.
       Atualmente sigo na área comercial, tenho conhecimento em vendas e sou habilidoso nos processos de negociação. 
-      <br />
-      - 📚 Estudando Tecnologia da Informação - Banco de dados
       </h4>
   <h4> 
     🖥️ Tecnologias e Ferramentas:
     <br />
-    🧑‍🎓 LEARNING:
+    🧑‍🎓 LEARNING: 📚 Estudando Tecnologia da Informação / Banco de dados
     <br />
     <br />
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -48,7 +50,22 @@
     <br />
     <img alt="MySQL" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   </h4>
-
+  <br />
+  <h4>
+    Projeto INTgrador
+  </h4>
+  <h3>
+    <img align="center alt="INTgrador" src="https://midiatix.com.br/wp-content/uploads/2015/11/banner-ideias.jpg" width="1000" height="250">
+  </h3>
+  <h5 align="center">
+    <br />
+    Com objetivo de estreitar a comunicação interdisciplinar no inicio de formação em conjunto com uma galera Top 🔝, para que todos possam compartilhar conteúdos acadêmicos e/ou dúvidas, com o objetivo de facilitar e estreitar relações. Criamos um canal no Discord. 
+   <br />
+  Venha fazer parte você também!!! 💪
+  <br />
+  <br />
+   <a href="https://discord.gg/wm9M5c2drU">
+    <img alt="DIO" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+    <br /> 
+      </h5>
  
-
-- 💬 Ask me about ...
