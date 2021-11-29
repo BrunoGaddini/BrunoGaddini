@@ -11,8 +11,10 @@
     <img alt="Outlook Badge" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
     <a href="https://www.instagram.com/bruno_gaddini/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+    <a href="https://www.hackerrank.com/bruno_gaddini">
+    <img alt="HackerRank Badge" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
     <a href="https://exercism.org/profiles/BrunoGaddini">
-    <img alt="Outlook Badge" src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white">
+    <img alt="Exercism Badge" src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white">
     <a href="https://web.digitalinnovation.one/users/bruno_gaddini">
     <img alt="DIO" src="https://christyschott.github.io/portfolio.github.io/assets/img/about/7.png" width="50" height="28">
   </a>
@@ -33,6 +35,7 @@
     <br />
     <br />
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img alt="HTML5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -43,6 +46,7 @@
     <br />
     <br />
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+    <img alt="MySQL" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white">
     <br />
     <br />
     ☁ Cloud
