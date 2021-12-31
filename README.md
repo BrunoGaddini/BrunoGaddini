@@ -65,7 +65,7 @@
   </h3>
   <h5 align="center">
     <br />
-    Com objetivo de estreitar a comunicação interdisciplinar no inicio de formação em conjunto com uma galera, para que todos possam compartilhar conteúdos acadêmicos e/ou dúvidas, com o objetivo de facilitar e estreitar relações. Criamos um canal no Discord. 
+    Com a finalidade de estreitar a comunicação interdisciplinar no inicio de formação em conjunto com uma galera, para que todos possam compartilhar conteúdos acadêmicos e/ou dúvidas, com o objetivo de facilitar e estreitar relações. Criamos um canal no Discord. 
    <br />
   Venha fazer parte você também!!! 💪
   <br />
