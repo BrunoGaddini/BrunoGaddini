@@ -61,6 +61,9 @@
   </h4>
   <br />
   <h4>
+   <src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}">
+  </h4>
+  <h4>
     Projeto INTgrador
   </h4>
   <h3>
