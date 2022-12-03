@@ -63,18 +63,3 @@
   <h4>
     Projeto INTgrador
   </h4>
-  <h3>
-    <img align="center alt="INTgrador" src="https://midiatix.com.br/wp-content/uploads/2015/11/banner-ideias.jpg" width="1000" height="250">
-  </h3>
-  <h5 align="center">
-    <br />
-    Com a finalidade de estreitar a comunicação interdisciplinar no inicio de formação em conjunto com uma galera, para que todos possam compartilhar conteúdos acadêmicos e/ou dúvidas, com o objetivo de facilitar e estreitar relações. Criamos um canal no Discord. 
-   <br />
-  Venha fazer parte você também!!! 💪
-  <br />
-  <br />
-   <a href="https://discord.gg/wm9M5c2drU">
-    <img alt="DIO" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-    <br /> 
-      </h5>
- 
