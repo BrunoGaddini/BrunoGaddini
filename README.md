@@ -60,5 +60,9 @@
   </h4>
   <br />
   <h4>
-    Projeto INTgrador
+    #Projeto INTgrador
   </h4>
+  <div align="center">
+  <a href="https://github.com/Jonhy-Willy">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunoGaddini&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoGaddini&layout=compact&langs_count=7&theme=chartreuse-dark"/>
