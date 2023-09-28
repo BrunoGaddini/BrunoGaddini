@@ -25,8 +25,7 @@
     <br />
     </h4>
     <h4>
-      Tenho 33 anos e sou entusiasta em tecnologia, meu próximo passo é unir todo o conhecimento adquirido com minhas novas skills.
-      Atualmente sigo na área comercial, tenho conhecimento em vendas e sou habilidoso nos processos de negociação. 
+      Tenho 35 anos, entusiasta em tecnologia, engenheiro de dados na BRQ Digital. 
       </h4>
   <h4> 
     🖥️ Tecnologias e Ferramentas:
