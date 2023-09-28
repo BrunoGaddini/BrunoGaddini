@@ -26,9 +26,9 @@
       Tenho 35 anos, entusiasta em tecnologia, engenheiro de dados na BRQ Digital. 
       </h4>
   <h4> 
-    🖥️ Tecnologias e Ferramentas:
-    <br />
     🧑‍🎓 Engenheiro de Dados
+    <br />
+    🖥️ Tecnologias e Ferramentas:
     <br />
     <br />
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
