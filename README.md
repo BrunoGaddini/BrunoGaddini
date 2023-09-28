@@ -55,8 +55,13 @@
     <img alt="MySQL" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   </h4>
   <br />
+  <h4> 
+    🖥️ Terminal
+  </h4>
+  <br />
   <h4>
-    #Projeto INTgrador
+    👨‍💻 Office [🔝]
+    <img alt="Miro" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white">
   </h4>
   <div align="center">
   <a href="https://github.com/Jonhy-Willy">
