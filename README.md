@@ -54,7 +54,6 @@
     <br />
     <img alt="MySQL" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   </h4>
-  <br />
   <h4> 
     🖥️ Terminal
     <br />
