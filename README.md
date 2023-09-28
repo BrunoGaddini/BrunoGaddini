@@ -15,8 +15,6 @@
     <img alt="HackerRank Badge" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
     <a href="https://exercism.org/profiles/BrunoGaddini">
     <img alt="Exercism Badge" src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white">
-    <a href="https://web.digitalinnovation.one/users/bruno_gaddini">
-    <img alt="DIO" src="https://christyschott.github.io/portfolio.github.io/assets/img/about/7.png" width="50" height="28">
   </a>
     </p>
 <h4>
@@ -39,8 +37,8 @@
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
-    <img alt="Spark" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16">
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+    <img alt="Spark" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16">
     <br />
     </h4>
   <h4>
