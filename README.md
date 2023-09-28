@@ -28,7 +28,7 @@
   <h4> 
     🖥️ Tecnologias e Ferramentas:
     <br />
-    🧑‍🎓 LEARNING: 📚 Estudando Tecnologia da Informação / Banco de dados
+    🧑‍🎓 Engenheiro de Dados
     <br />
     <br />
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
