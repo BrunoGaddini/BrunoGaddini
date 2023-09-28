@@ -62,6 +62,7 @@
   <h4>
     👨‍💻 Office [🔝]
     <br />
+    <br />
     <img alt="Miro" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white">
   </h4>
   <div align="center">
